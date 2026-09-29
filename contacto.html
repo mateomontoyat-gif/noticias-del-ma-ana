@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Noticias del mañana - Contacto</title>
+<link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+<header>
+<h1>Noticias del mañana</h1>
+<nav>
+<a href="index.html">Inicio</a>
+<a href="noticias.html">Noticias</a>
+<a href="contacto.html">Contacto</a>
+</nav>
+</header>
+
+<main class="contact-main">
+<h2>Contáctanos</h2>
+<p>¿Tienes dudas y sigues sin resolverlas animate a escribirnos ? que esperas queremos escucharte .</p>
+
+<form id="contact-form">
+<label for="nombre">Nombre</label>
+<input id="nombre" name="nombre" type="text" placeholder="Tu nombre" minlength="2" required>
+<label for="correo">email</label>
+<input id="correo" name="correo" type="email" placeholder="Tu email" required>
+<label for="mensaje">Mensaje</label>
+ <textarea id="mensaje" name="mensaje" placeholder="deposita tu mensaje aquí..." rows="4" minlength="10" required></textarea>
+ <button type="submit" class="btn-submit">Enviar mensaje</button>
+<p id="form-status" role="status"></p>
+</form>
+</main>
+<script src="js/script.js"></script>
+</body>
+</html>
