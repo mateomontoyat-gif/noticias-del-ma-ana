@@ -1,0 +1,34 @@
+[
+  {
+    "id": "cultura",
+    "tag": "Cultura",
+    "titulo": "Avances en la cultura colombiana demuestra mas su riqueza y diversidad",
+    "resumen": "grupos se unen en demostrar que la cultura colombiana es mas bonita y diversa de lo que se cree",
+    "img": "img/cultura.jpeg",
+    "texto": "lacultura colombiana ha experimentado un renacimiento en los últimos años, con festivales, exposiciones y eventos que celebran la diversidad de tradiciones y expresiones artísticas. La música, la danza y las artes visuales reflejan la riqueza cultural del país, atrayendo tanto a locales como a turistas."
+  },
+  {
+    "id": "clasico paisa",
+    "tag": "Clásico Paisa",
+    "titulo": "paz total en el clasico paisa",
+    "resumen": "las hinchadas de los equipos se unieron en un solo grito de paz y amor por el futbol",
+    "img": "img/clasico.jpeg",
+    "texto": "En un emocionante encuentro, las hinchadas de ambos equipos se unieron en un solo grito de paz y amor por el futbol, demostrando que el deporte puede ser una fuerza unitiva."
+  },
+  {
+    "id": "goat",
+    "tag": "messi",
+    "titulo": "se viene el noveno balon de oro para messi",
+    "resumen": "el noveno balon de oro para messi es inminente, y los aficionados esperan con ansias la ceremonia de premiación.",
+    "img": "img/messi.jpeg",
+    "texto": "El noveno balon de oro para messi es inminente, y los aficionados esperan con ansias la ceremonia de premiación."
+  },
+  {
+    "id": "awo",
+    "tag": "el cantante del ghetto",
+    "titulo": "ryan castro, el cantante del ghetto, lanza su nuevo sencillo",
+    "resumen": "ryan castro lanza su nuevo sencillo, demostrando su evolución artística y creatividad.",
+    "img": "img/richi.jpeg",
+    "texto": "Ryan Castro, conocido como el cantante del ghetto, ha lanzado su nuevo sencillo, mostrando su evolución artística y creatividad. La canción ha recibido elogios por su estilo único y letras impactantes, consolidando su posición en la industria musical."
+  }
+]
